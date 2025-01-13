@@ -14,7 +14,7 @@ serde_json = "1.0.134"
 directories = "5.0.1"
 backtrace = "0.3.74"
 toml = "0.8.19"
-tokio = { version = "1.42.0", features = ["net", "rt"] }
+tokio = { version = "1.43.0", features = ["net", "rt"] }
 
 [lints]
 workspace = true
