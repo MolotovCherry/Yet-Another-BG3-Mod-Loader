@@ -10,7 +10,7 @@ tracing.workspace = true
 windows.workspace = true
 unicase.workspace = true
 serde = { version = "1.0.217", features = ["derive"] }
-serde_json = "1.0.134"
+serde_json = "1.0.135"
 directories = "5.0.1"
 backtrace = "0.3.74"
 toml = "0.8.19"
